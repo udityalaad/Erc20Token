@@ -38,7 +38,7 @@ https://github.com/othneildrew/Best-README-Template -->
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 - An ERC20-token created using openzeppelin's abstractions & deployed on the ethereum mainnet
-- The token is intended to support multiple other use-cases & applications planned to be hosted on the ethereum maintain in the form of smart-contracts
+- The token is intended to support multiple other use-cases & applications planned to be hosted on the ethereum mainnet in the form of smart-contracts
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
